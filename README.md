@@ -1,3 +1,8 @@
+
+- [Back to __MASTER__](https://github.com/AlexOcculate/__MASTER__/blob/main/README.md)
+
+---
+
 <p align="center"><img src="public/images/favicon-no-bg.svg" width="80"></p>
 <h1 align="center">BentoPDF</h1>
 <p align="center">
